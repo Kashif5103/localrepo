@@ -10,7 +10,7 @@ void main() {
       body: const Center(
         child: Column(
           children: [
-            Text('Muhammad Kashif'),
+            Text('Malik Kashif'),
             Image(
               image: AssetImage('db.png'),
             ),
